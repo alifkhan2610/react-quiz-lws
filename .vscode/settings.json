@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": ture, 
+        "source.fixAll.tslint": ture, 
+        "source.organizeImports": true
+    },
+    "javascript.format.enable": false,
+    "typescript.format.enable": false
+
+}
